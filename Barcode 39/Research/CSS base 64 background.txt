@@ -1,0 +1,12 @@
+Black:
+
+<img alt="" src="data:image/gif;base64,R0lGODlhAgACAIAAAAAAAP///ywAAAAAAgACAAACAoRRADs=" />
+
+
+background-image: url(data:image/gif;base64,R0lGODlhAgACAIAAAAAAAP///ywAAAAAAgACAAACAoRRADs=);
+
+White:
+
+<img alt="" src="data:image/gif;base64,R0lGODlhAgACAIAAAAAAAP///ywAAAAAAgACAAACAoxTADs=" />
+
+background-image: url(data:image/gif;base64,R0lGODlhAgACAIAAAAAAAP///ywAAAAAAgACAAACAoxTADs=);
